@@ -4,8 +4,6 @@
 
 The **Banking Management System** is a Java desktop application built using Java Swing. It allows users to perform basic banking operations through a clean and simple graphical user interface. The system stores all account and transaction data in a MySQL database and uses JDBC for communication.
 
-This project is designed for students and beginners learning Java, databases, and GUI development. It shows how to connect a Java Swing interface with a relational database and implement common banking features like deposits and transfers. This project simulates core banking operations and demonstrates how Java desktop applications interact with relational databases using JDBC.
-
 ---
 
 ## 2. Features
